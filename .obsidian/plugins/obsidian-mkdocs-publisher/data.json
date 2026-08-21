@@ -8,7 +8,7 @@
       "enable": false,
       "folderName": "enveloppe"
     },
-    "tokenSecret": "",
+    "tokenSecret": "lore",
     "api": {
       "tiersForApi": "Github Free/Pro/Team (default)",
       "hostname": ""
@@ -18,8 +18,8 @@
       "name": ""
     },
     "otherRepo": [],
-    "verifiedRepo": false,
-    "rateLimit": 0
+    "verifiedRepo": true,
+    "rateLimit": 5000
   },
   "upload": {
     "behavior": "fixed",

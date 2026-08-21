@@ -13,44 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Osvaldo.md",
+                "file": "content/Osvaldo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Osvaldo"
             }
-          },
-          {
-            "id": "351db45ab103b4ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vida de Osvaldo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vida de Osvaldo"
-            }
-          },
-          {
-            "id": "a49ec79de03ac443",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ludovica Disgrazia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ludovica Disgrazia"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,17 +188,54 @@
       "bases:Create new base": false
     }
   },
-  "active": "351db45ab103b4ee",
+  "active": "d90e48d069dc54f4",
   "lastOpenFiles": [
-    "Ludovica Disgrazia.md",
-    "Vida de Osvaldo.md",
-    "Pineta.md",
-    "1787343477-JJHX.md",
-    "pineta.md",
-    "Osvaldo.md",
-    "Purrieta.md",
-    "README.md",
-    "San Clemente de Vallercas.md",
-    "Purriette.md"
+    "public/vida-de-osvaldo-og-image.webp",
+    "public/san-clemente-de-vallercas-og-image.webp",
+    "public/readme-og-image.webp",
+    "public/purrieta-og-image.webp",
+    "public/pineta-og-image.webp",
+    "public/osvaldo-og-image.webp",
+    "public/Vida-de-Osvaldo.html",
+    "public/San-Clemente-de-Vallercas.html",
+    "public/README.html",
+    "public/Purrieta.html",
+    "public/purriette.html",
+    "public/Pineta.html",
+    "public/Osvaldo.html",
+    "public/san-úrbez,-oso.html",
+    "public/Ludovica-Disgrazia.html",
+    "public/ludovica-disgrazia-og-image.webp",
+    "public/index.xml",
+    "content/San Clemente de Vallercas.md",
+    "public/tags/index-og-image.webp",
+    "public/static/og-image.png",
+    "public/static/icon.png",
+    "node_modules/@quartz-community/tag-list/node_modules/@quartz-community/types/README.md",
+    "node_modules/@quartz-themes/core/node_modules/@quartz-community/types/README.md",
+    "node_modules/@quartz-community/utils/node_modules/@quartz-community/types/README.md",
+    "node_modules/@quartz-community/unlisted-pages/node_modules/@quartz-community/types/README.md",
+    "node_modules/@quartz-community/tag-page/node_modules/@quartz-community/types/README.md",
+    "node_modules/@quartz-community/table-of-contents/node_modules/@quartz-community/types/README.md",
+    "node_modules/@quartz-community/syntax-highlighting/node_modules/@quartz-community/types/README.md",
+    "node_modules/@quartz-community/stacked-pages/node_modules/@quartz-community/types/README.md",
+    "node_modules/@quartz-community/spacer/node_modules/@quartz-community/types/README.md",
+    "node_modules/@quartz-community/search/node_modules/@quartz-community/types/README.md",
+    "node_modules/@quartz-community/roam/node_modules/@quartz-community/types/README.md",
+    "node_modules/@quartz-community/remove-draft/node_modules/@quartz-community/types/README.md",
+    "node_modules/@quartz-community/recent-notes/node_modules/@quartz-community/types/README.md",
+    "node_modules/@quartz-community/reader-mode/node_modules/@quartz-community/types/README.md",
+    "node_modules/@quartz-community/quartz-fonts/node_modules/@quartz-community/types/README.md",
+    "node_modules/@quartz-community/description/node_modules/@quartz-community/types/README.md",
+    "node_modules/@quartz-community/page-title/node_modules/@quartz-community/types/README.md",
+    "node_modules/@quartz-community/ox-hugo/node_modules/@quartz-community/types/README.md",
+    "node_modules/@quartz-community/note-properties/node_modules/@quartz-community/types/README.md",
+    "node_modules/@quartz-community/og-image/node_modules/@quartz-community/types/README.md",
+    "node_modules/@quartz-community/obsidian-flavored-markdown/node_modules/@quartz-community/types/README.md",
+    "node_modules/@quartz-community/hard-line-breaks/node_modules/@quartz-community/types/README.md",
+    "node_modules/@quartz-community/latex/node_modules/@quartz-community/types/README.md",
+    "node_modules/@quartz-community/graph/node_modules/@quartz-community/types/README.md",
+    "docs/Canvas.canvas",
+    "quartz-temp/docs/Canvas.canvas"
   ]
 }
